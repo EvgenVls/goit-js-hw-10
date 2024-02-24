@@ -1,4 +1,20 @@
 /* Reset styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin-top: 24px;
+  margin-left: 24px;
+  font-family: -apple-system, 'Montserrat', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  color: #2E2F42;
+  background-color: #FFFFFF;
+}
+
 h1,
 h2,
 h3,
